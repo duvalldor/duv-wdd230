@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+/*----header-footer------*/
+.logo{
+    float: left;
+}
+.center{
+    text-align: center;
+}
+body{
+    background-color: aliceblue;
+}
+
+/*Navigation info for page*/
+
+
+/*----Forms----*/
